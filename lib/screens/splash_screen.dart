@@ -1,7 +1,6 @@
 import 'package:animated_text_kit/animated_text_kit.dart';
 import 'package:flutter/material.dart';
-//import 'package:splashscreen/splashscreen.dart';
-import 'package:animated_splash_screen/animated_splash_screen.dart';
+
 import 'package:google_fonts/google_fonts.dart';
 
 class SplashScreen extends StatefulWidget {
